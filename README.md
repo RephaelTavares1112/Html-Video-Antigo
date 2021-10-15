@@ -1,2 +1,1 @@
-# antigo
- Coisas do passado
+Bem vejo que o redme é só para fazer comentarios para que outrous saibem teoricamente o que esta no codigo. Bom, isso foi uma grande descoberta para mim, poque ningéum havia me ensinado antes. Agora sei bem com funciona as coisas
